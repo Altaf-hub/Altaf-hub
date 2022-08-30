@@ -4,15 +4,16 @@
   <a href="https://Altaf-hub.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=abspaltaf&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/altaf-pasha-73934039" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://Altaf-hub.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+      <a href="https://www.researchgate.net/profile/Altaf-Pasha" target="_blank"><img alt="ResearchGate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ResearchGate_logo_2015.svg/160px-ResearchGate_logo_2015.svg.png" /></a>
 
-I'm a Ph.D scholar of Physicis, developing and advocating for clean/renewable energy technologies. Interested in semiconductor materials design and device architectures for new generation solar cells. Currently visiting [HPFFP](https://haskellbook.com/)
+I'm a Ph.D scholar of Physicis at [Jain Uni., Bangalore](https://cnms.jainuniversity.ac.in/), developing and advocating for clean/renewable energy technologies. Interested in semiconductor materials design and device architectures for new generation solar cells. Currently visiting [Rice Univ., Houston](https://mpem.rice.edu/)
 
 ### My work
 
-I contribute to FP projects and build some myself:
+I fabricate perovskite based solar cells and find solutions to protect them againt air, moisture, light and heat.
 
-* [📚 Blog](https://kodimensional.dev/#blog) — articles on learning Functional programming.
-* [:octocat: OSS](https://github.com/udaycruise2903) — my projects
+* [:octocat: OSS](https://github.com/Altaf-hub) — My projects
 
 I'd like to highlight a few notable contributions and projects:
 
